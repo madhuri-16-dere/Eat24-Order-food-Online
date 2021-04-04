@@ -1,0 +1,42 @@
+body{
+
+    background-color:rgba(88, 88, 63, 0.541);
+}
+
+/* brand font */
+.navbar-brand{
+    font-size:3em;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* change nav menu color */
+.navbar #menu .custom-nav .nav-item a{
+    color:#fff;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+
+/* change nav menu hover color */
+.navbar #menu .custom-nav .nav-item a:hover{
+    color:#F0AAB1;
+}
+
+/* Banner Image */
+.bg-img{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius:0px;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+/*  */
+
